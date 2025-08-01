@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/1170/1170576.png" width="26"/> Bara Imrahma – School Activities Management  
+# <img src="https://cdn-icons-png.flaticon.com/512/1170/1170576.png" width="26"/> baraimerahma – School Activities Management  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status" />
@@ -89,7 +89,7 @@ baraimerahma/
    
 ---
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828859.png" width="22"/> Contributing 
+**Contributing** 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
