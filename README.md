@@ -63,3 +63,32 @@ baraimerahma/
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Farahelhadiq/baraimerahma.git
+ 2. **Import the database**
+      Open phpMyAdmin
+      Import the .sql file provided in the project
+3.  **Configure the database**
+       Edit config.php with your MySQL credentials
+       define('DB_HOST', 'localhost');
+       define('DB_NAME', 'your_database_name');
+       define('DB_USER', 'root');
+       define('DB_PASS', '');
+4. **Run the project locally**
+      Place the project inside htdocs folder (XAMPP) or your PHP server root
+      Access via http://localhost/baraimerahma
+   
+---
+
+   <img src="https://cdn-icons-png.flaticon.com/512/1828/1828859.png" width="22"/> Contributing
+      Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+   
+---
+
+       <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="12"/> Author
+       👩‍💻 Farah El Hadiq – Full Stack Web Developer
+
+      🔗 Portfolio
+      🔗 LinkedIn
+         
+---
+
+      <h4 align="center"> ⭐ If you like this project, please give it a star on GitHub! ⭐ </h4>
