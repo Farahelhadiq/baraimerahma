@@ -10,7 +10,7 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="22"/> Overview  
 
-**Bara Imrahma** is a web application designed for **managing school activities** in an institution.  
+**baraimerahma** is a web application designed for **managing school activities** in an institution.  
 It allows **administrators to add, assign, and delete teachers, children, groups, and activities** efficiently.  
 
 🔗 **Live Demo:** [https://baraimerahma.infinityfree.me](https://baraimerahma.infinityfree.me)  
@@ -89,7 +89,7 @@ baraimerahma/
    
 ---
 
-**Contributing** 
+**Contributing:** 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
